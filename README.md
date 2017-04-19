@@ -1,3 +1,3 @@
 # SnakeGame-in-C
 Simple terminal based snake game
-ok change 
+ok change has happend
